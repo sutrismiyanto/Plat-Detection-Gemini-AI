@@ -1,0 +1,88 @@
+{
+  "plat_no": "AB 1411 TY",
+  "vehicle": "car",
+  "vehicle_type": "MPV",  
+  "expire_date": "N/A",
+  "color": "silver",
+  "manufacturing_date": "N/A",
+  "registered_in": "N/A",
+  "gate_open": "N/A",
+  "gate_closed": "N/A"
+}
+{
+  'plat_no': 'AB 1274 GY',
+  'vehicle': 'car',
+  'vehicle_type': 'MPV',
+  'expire_date': '12-21',
+  'color': 'black',
+  'manufacturing_date': 'N/A',
+  'registered_in': 'N/A',
+  'gate_open': 'N/A',
+  'gate_closed': 'N/A'
+}
+{
+  'plat_no': 'B 1675 SST',
+  'vehicle': 'car',
+  'vehicle_type': 'MPV',
+  'expire_date': '03-19',
+  'color': 'blue',
+  'manufacturing_date': 'N/A',
+  'registered_in': 'N/A',
+  'gate_open': 'N/A',
+  'gate_closed': 'N/A'
+}
+{
+  'plat_no': 'B 121504-VII',
+  'vehicle': 'car',
+  'vehicle_type': 'sedan',
+  'expire_date': 'N/A',
+  'color': 'white and blue',
+  'manufacturing_date': 'N/A',
+  'registered_in': 'N/A',
+  'gate_open': 'N/A',
+  'gate_closed': 'N/A'
+}
+{
+  'plat_no': '粤A 08550',
+  'vehicle': 'car',
+  'vehicle_type': 'sedan',
+  'expire_date': 'N/A',
+  'color': 'black',
+  'manufacturing_date': 'N/A',
+  'registered_in': 'N/A',
+  'gate_open': 'N/A',
+  'gate_closed': 'N/A'
+}
+{
+  'plat_no': 'D 5015 VBW',
+  'vehicle': 'motorcycle',
+  'vehicle_type': 'scooter',
+  'expire_date': '03.20',
+  'color': 'white',
+  'manufacturing_date': 'N/A',
+  'registered_in': 'N/A',
+  'gate_open': 'N/A',
+  'gate_closed': 'N/A'
+}
+{
+  "plat_no": "B62719ADN",
+  "vehicle": "motorcycle",
+  "vehicle_type": "scooter",
+  "expire_date": null,
+  "color": "silver/grey",
+  "manufacturing_date": null,
+  "registered_in": null,
+  "gate_open": null,
+  "gate_closed": null
+}
+{
+  "plat_no": "B 3791 EHF",
+  "vehicle": "motor",
+  "vehicle_type": "scooter",
+  "expire_date": "10-25",
+  "color": "white",
+  "manufacturing_date": "N/A",
+  "registered in": "N/A",
+  "gate_open": "N/A",
+  "gate_closed": "N/A"
+}
